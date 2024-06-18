@@ -1,0 +1,61 @@
+@import url("https://fonts.googleapis.com/css2?family=Merienda:wght@300..900&display=swap");
+
+html,
+body {
+  height: 100%;
+  width: 100%;
+}
+.home {
+  background-image: url("../../public/images/Rectangle 7.jpg");
+  background-size: cover;
+  background-position: center;
+  height: 100vh;
+  opacity: 0.91;
+}
+h1 {
+  color: #ffffff;
+  font-family: merienda;
+  font-style: italic;
+  color: #ffffff;
+  opacity: 1;
+  font-size: 40px;
+}
+
+h3 {
+  padding-top: 12%;
+  margin-bottom: 0%;
+  font-family: Vollkorn;
+  letter-spacing: 0px;
+  color: #ffffff;
+  text-align: center;
+  opacity: 1;
+  margin-top: -10px;
+  margin-bottom: -10px;
+}
+h2 {
+  font-family: vollkorn;
+  letter-spacing: 2px;
+  color: #ffffff;
+  text-align: center;
+  font-size: 25px;
+  margin-top: -10px;
+}
+p {
+  font-family: Vollkorn;
+  width: 923px;
+  margin-left: 15%;
+  color: #ffffff;
+}
+button {
+  width: 150px;
+  height: 50px;
+  border: 1px solid #ffffff;
+  background: transparent linear-gradient(237deg, #00aa9e 0%, #004d47 100%) 0%
+    0% no-repeat padding-box;
+  margin-top: 20px;
+}
+.img1 {
+  width: 100%;
+  height: auto;
+  margin-top: 160px;
+}

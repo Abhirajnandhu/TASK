@@ -1,0 +1,26 @@
+li {
+  font: var(--unnamed-font-style-normal) normal
+    var(--unnamed-font-weight-normal) var(--unnamed-font-size-20) /
+    var(--unnamed-line-spacing-28) var(--unnamed-font-family-vollkorn);
+  letter-spacing: var(--unnamed-character-spacing-0);
+  text-align: left;
+  font: normal normal normal 20px/28px Vollkorn;
+  letter-spacing: 0px;
+  color: #585858;
+  opacity: 1;
+  height: 2rem;
+}
+
+ul {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  list-style: none;
+  gap: 2%;
+  cursor: pointer;
+}
+
+img {
+  width: 5rem;
+  height: 5rem;
+}
